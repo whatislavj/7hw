@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.class1 {
+    display: flex;   
+    justify-content: center; 
+    gap: 8px;
+}
+
+.class2 {
+    width: 30px;
+    border: 1px solid gray;
+    flex: 2;
+}
+
+.class3 {
+    width: 30px;
+    border: 1px solid gray;
+    flex: 3;
+}
